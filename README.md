@@ -1,6 +1,6 @@
 ### Hi, I'm Evgeny 👋
 
-I'm a Senior Software Engineer at Microsoft who specializes in full-stack software development.
+I'm a Senior Software Engineer at Microsoft who specializes in backend software development.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently reading ...
